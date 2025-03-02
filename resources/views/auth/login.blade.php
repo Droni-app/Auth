@@ -35,11 +35,6 @@
           ¿Olvidaste tu contraseña?
         </a>
       </div>
-      <div class="text-center mt-4">
-        <a href="{{ route('register') }}" class="inline-block align-baseline font-bold text-sm text-blue-500 hover:text-blue-800">
-          Registrarse
-        </a>
-      </div>
     </form>
   </div>
 </div>
